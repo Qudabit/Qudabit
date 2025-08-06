@@ -1,16 +1,25 @@
-## Hi there 👋
+Qudabit - AI Solutions for Edge, Cloud, and Beyond
 
-<!--
-**Qudabit/Qudabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Who We Are Qudabit is an AI-first innovation team specializing in building efficient, deployable, and research-backed AI systems for real-world impact. We bring cutting-edge intelligence to Edge, Cloud, and Agentic AI systems.
 
-Here are some ideas to get you started:
+🔍 Our Focus Areas ✔ Edge AI & TinyML - Bringing AI to resource-constrained environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ Knowledge Distillation - Lightweight models for real-time inference
+
+✔ LLM & VLM Quantization - Faster, smarter on-device AI
+
+✔ Agentic AI Frameworks - Intelligent, autonomous decision-making
+
+✔ Computer Vision - Real-world AI for automation & safety
+
+📌 Key Projects MedMNIST-KD - Knowledge Distillation for Medical Imaging
+
+Phi3-EdgeQuant-Agent - Dynamic Quantization for Edge LLMs
+
+Adulteration Detection - YOLO-based Food Safety AI
+
+Sthal - AI-powered Smart City Platform
+
+🌐 Connect with Us 📎 Website: www.cudabit.live 📎 Hugging Face: https://huggingface.co/Qudabitdotcom 📎 X (Twitter): Qudabit 📎 Instagram: https://www.instagram.com/qudabit 📎 Fiverr Services: https://www.fiverr.com/s/ljDpYQA 📧 Email: info@cudabit.live
+
+✅ Our Mission To push the boundaries of AI deployment through efficiency, intelligence, and adaptability, making advanced AI solutions accessible at scale.
